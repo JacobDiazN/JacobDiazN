@@ -32,8 +32,8 @@ Actualmente, estoy trabajando en proyectos relacionados con el desarrollo de API
 - **[JPARental](https://github.com/JacobDiazN/JPARental)**: Un sistema de gestión de alquileres utilizando Java Persistence API (JPA) con Spring Boot.
 
 ### 📫 Contacto
-Puedes contactarme a través de mi correo electrónico: [Jacob Díaz en gmail](mailto:contactovimedia@gmail.com)  
-También estoy en LinkedIn: [Jacob Díaz en LinkedIn](https://www.linkedin.com/in/jacob-diaz-navarro-b37233158/)
+Puedes contactarme a través de mi correo electrónico: [Gmail](mailto:contactovimedia@gmail.com)  
+También estoy en LinkedIn: [LinkedIn](https://www.linkedin.com/in/jacob-diaz-navarro-b37233158/)
 
 ### 📈 Mis Estadísticas de GitHub
 ![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=JacobDiazN&show_icons=true&theme=radical)
