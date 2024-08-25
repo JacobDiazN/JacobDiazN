@@ -10,7 +10,7 @@ Soy de Chile, específicamente de la comuna de Til Til en la provincia de Chacab
 Actualmente, estoy cursando el 4° año de la carrera de Ingeniería Informática Multimedia en la Universidad UNIACC. Además, estoy finalizando un bootcamp enfocado en desarrollo Backend y Frontend. Mi formación comenzó con un bootcamp de desarrollo fullstack en 2022, que me motivó a profundizar en mis conocimientos y seguir perfeccionándome en la universidad. A fines de 2023, gané una beca para un bootcamp de Java fullstack, lo que ha sido un gran impulso para mis habilidades en el desarrollo de software.
 
 ### 🎉 Otros Logros
-**Beca para Bootcamp de Java Fullstack (2023):** Gané una beca competitiva que me permitió especializarme en desarrollo fullstack con Java.
+**Beca para Bootcamp de Java Fullstack (2023):** Obtuve una beca competitiva que me permitió especializarme en desarrollo fullstack con Java.
 
 ### 💻 Experiencia
 Aunque no tengo experiencia laboral previa, he dedicado los últimos tres años a estudiar y trabajar en proyectos que me han permitido adquirir valiosas habilidades. He pasado por múltiples pruebas y errores, lo que me ha ayudado a mejorar y mantenerme enfocado en alcanzar mis metas.
