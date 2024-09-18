@@ -49,6 +49,7 @@ También estoy en LinkedIn: [LinkedIn](https://www.linkedin.com/in/jacob-diaz-na
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JacobDiazN&theme=radical)](https://git.io/streak-stats)
 
 ### 🗂️ Repositorios Destacados
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobDiazN&repo=ProyectoVentasVimedia&theme=radical)](https://github.com/JacobDiazN/ProyectoVentasVimedia)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JacobDiazN&repo=JPARental&theme=radical)](https://github.com/JacobDiazN/JPARental)
 
 
