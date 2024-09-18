@@ -13,7 +13,7 @@ Actualmente, estoy cursando el 4° año de la carrera de Ingeniería Informátic
 **Beca para Bootcamp de Java Fullstack (2023):** Obtuve una beca competitiva que me permitió especializarme en desarrollo fullstack con Java.
 
 ### 💻 Experiencia
-Aunque no tengo experiencia laboral previa, he dedicado los últimos tres años a estudiar y trabajar en proyectos que me han permitido adquirir valiosas habilidades. He pasado por múltiples pruebas y errores, lo que me ha ayudado a mejorar y mantenerme enfocado en alcanzar mis metas.
+he dedicado los últimos tres años a estudiar y trabajar en proyectos que me han permitido adquirir valiosas habilidades. He pasado por múltiples pruebas y errores, lo que me ha ayudado a mejorar y mantenerme enfocado en alcanzar mis metas.
 
 ### 🛠️ Tecnologías y Herramientas
 - **Lenguajes:** Java, JavaScript, HTML, CSS, SQL
@@ -26,6 +26,7 @@ Aunque no tengo experiencia laboral previa, he dedicado los últimos tres años 
 Actualmente, estoy trabajando en proyectos relacionados con el desarrollo de APIs RESTful y aplicaciones web robustas utilizando Spring Boot y PostgreSQL. También me estoy enfocando en mejorar mis habilidades en desarrollo Frontend con React.js.
 
 ### 🔗 Mis Proyectos Destacados
+- **[Proyecto de Gestión de clientes](https://github.com/JacobDiazN/ProyectoVentasVimedia)**:Este proyecto tiene como objetivo optimizar la administración de clientes, productos y sus respectivas compras a través de una interfaz web eficiente y una API REST. Los datos se gestionan mediante una base de datos PostgreSQL, utilizando Spring Boot y JPA para la integración y persistencia de datos.
 - **[Proyecto de Gestión de Biblioteca](https://github.com/tu-usuario/proyecto-gestion-biblioteca)**: Una aplicación para la gestión de libros en una biblioteca, incluyendo funcionalidades para cambiar el estado de los libros.
 - **[Proyecto de Reportes Inmobiliarios](https://github.com/tu-usuario/reportes_inmobiliaria)**: Un proyecto Spring Boot con autenticación de usuarios y generación de reportes, integrado con PostgreSQL.
 - **[API de Valores de la Unidad de Fomento](https://github.com/tu-usuario/api-uf)**: API para obtener valores de la Unidad de Fomento (UF) en Chile, utilizando Spring Boot y `RestTemplate`.
