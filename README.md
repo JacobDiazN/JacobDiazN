@@ -1,13 +1,13 @@
 # 👋 ¡Hola, soy Jacob Díaz!
 
 ### 🚀 Sobre mí
-Soy un desarrollador de software en formación con una gran pasión por crear aplicaciones web y móviles que solucionen problemas reales. Mi camino en el desarrollo comenzó en 2022, y desde entonces no he dejado de aprender y crecer en este emocionante mundo.
+Soy un desarrollador de software en formación con una gran pasión por crear aplicaciones web y móviles que solucionen problemas reales. Mi camino en el desarrollo comenzó en 2019, y desde entonces no he dejado de aprender y crecer en este emocionante mundo.
 
 ### 🌍 De dónde soy
 Soy de Chile, específicamente de la comuna de Til Til en la provincia de Chacabuco.
 
 ### 🎓 Formación
-Actualmente, estoy cursando el 4° año de la carrera de Ingeniería Informática Multimedia en la Universidad UNIACC. Además, estoy finalizando un bootcamp enfocado en desarrollo Backend y Frontend. Mi formación comenzó con un bootcamp de desarrollo fullstack en 2022, que me motivó a profundizar en mis conocimientos y seguir perfeccionándome en la universidad. A fines de 2023, gané una beca para un bootcamp de Java fullstack, lo que ha sido un gran impulso para mis habilidades en el desarrollo de software.
+Actualmente, estoy cursando el 4° año de la carrera de Ingeniería Informática Multimedia en la Universidad UNIACC. Además, estoy finalizando un bootcamp enfocado en desarrollo Backend y Frontend. Mi formación comenzó con un bootcamp de desarrollo fullstack en 2019, que me motivó a profundizar en mis conocimientos y seguir perfeccionándome en la universidad. A fines de 2023, gané una beca para un bootcamp de Java fullstack, lo que ha sido un gran impulso para mis habilidades en el desarrollo de software.
 
 ### 🎉 Otros Logros
 **Beca para Bootcamp de Java Fullstack (2023):** Obtuve una beca competitiva que me permitió especializarme en desarrollo fullstack con Java.
